@@ -1,0 +1,38 @@
+{
+"pizza": [
+{
+"id": 0,
+"name": "Margherita",
+"description": " ",
+"ingredients": ["tomato sauce", "mozzarella"],
+"spicy": false,
+"vegetarian": true,
+"price": 17.0,
+"image": "https://i.imgur.com/8B8YLOo.jpg"
+},
+{
+"id": 1,
+"name": "Pepperoni",
+"description": " ",
+"ingredients": ["tomato sauce", "mozzarella", "double pepperoni"],
+"spicy": false,
+"vegetarian": false,
+"price": 20.0,
+"image": "https://i.imgur.com/OHHctnf.jpg"
+},
+{
+"id": 2,
+"name": "Rome",
+"description": " ",
+"ingredients": [
+"tomato sauce",
+"mozzarella",
+"ham",
+"mushrooms",
+"beef cubes"
+],
+"spicy": false,
+"vegetarian": false,
+"price": 25.75,
+"image": "https://i.imgur.com/3ZTwCfz.png"
+}],
